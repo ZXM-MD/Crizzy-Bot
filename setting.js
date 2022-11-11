@@ -15,12 +15,12 @@ global.smm = {
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
+global.owner = ['6289636371132"]
+global.premium = ['6289636371132']
 global.profilebio = ['6283102650464'] // ini ganti nomor lu ntar bisa nampilin pp lu
 global.sponsor = 'no sponsors in:('
 global.packname = 'Crizzy-Bot'
-global.footer = '© 2022 Fadhil Graphy'
+global.footer = "© 2022 Pak Zainal Dev's"
 global.author = 'Owner : Fadhil Graphy\nIg1 : @fdhlgrphy\nIg2 : @nr.fdhl__'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
